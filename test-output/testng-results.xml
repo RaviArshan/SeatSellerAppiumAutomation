@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="194636" started-at="2021-08-02T19:32:12 IST" finished-at="2021-08-02T19:35:26 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="194636" started-at="2021-08-02T19:32:12 IST" finished-at="2021-08-02T19:35:26 IST">
+      <class name="SeatSeller.MavenAutomation.Ecomerce_FormFill_TC">
+        <test-method status="PASS" signature="ecommerce()[pri:0, instance:SeatSeller.MavenAutomation.Ecomerce_FormFill_TC@6ec8211c]" name="ecommerce" duration-ms="55121" started-at="2021-08-02T19:34:31 IST" finished-at="2021-08-02T19:35:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ecommerce -->
+      </class> <!-- SeatSeller.MavenAutomation.Ecomerce_FormFill_TC -->
+      <class name="SeatSeller.MavenAutomation.SsLoginSuccess">
+        <test-method status="PASS" signature="ssTest()[pri:0, instance:SeatSeller.MavenAutomation.SsLoginSuccess@78ac1102]" name="ssTest" duration-ms="139416" started-at="2021-08-02T19:32:12 IST" finished-at="2021-08-02T19:34:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ssTest -->
+      </class> <!-- SeatSeller.MavenAutomation.SsLoginSuccess -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
