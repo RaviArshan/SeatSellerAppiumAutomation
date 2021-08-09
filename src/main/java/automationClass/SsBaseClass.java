@@ -45,6 +45,7 @@ public class SsBaseClass
 	static String nodePath="C:/Program Files/nodejs/node.exe";
 	public void  startServer()
 	{
+		System.out.print("Welcome");
 		CommandLine cmd = new CommandLine("C:/Program Files/nodejs/node.exe");
 	    cmd.addArgument("C:/Users/ravi.m/AppData/Roaming/npm/node_modules/appium/lib/appium.js");
 	    cmd.addArgument("--address");
